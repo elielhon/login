@@ -4,7 +4,7 @@ Tela de login responsiva feita com HTML e CSS puro, com efeito de vidro fosco (g
 
 ## 🔍 Preview
 
-![preview](imagem_login.jpg)
+![preview](login.png)
 
 Visite o site aqui: https://elielhon.github.io/login/
 
